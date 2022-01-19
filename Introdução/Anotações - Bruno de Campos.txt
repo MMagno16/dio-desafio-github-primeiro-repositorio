@@ -1,0 +1,54 @@
+
+Estrutura de Dados:
+Existem diversas estruturas de dados utilizadas na programação, as quatro principais são: 
+* Listas e suas variações (filas, pilhas, deques, listas circulares…);
+* Árvores e suas variações (binárias, binárias de busca, não binárias…);
+* Grafos, Tabelas Hash, que são largamente utilizadas na implementação de aplicações.
+Uma estrutura de dados é uma maneira de armazenar e relacionar conjuntos de informações
+de forma organizada e, na maioria das vezes, sequencial. Estas estruturas são muito importantes 
+quando precisamos armazenar um conjunto de dados para ser utilizado em um determinado software.
+
+Vetores e Matrizes (ARRAYS) :
+Vetores e matrizes são coleções de variáveis contínuas na memória e acessadas através de um número de índice. 
+A diferença entre vetores e matrizes é que vetores são de uma única dimensão, enquanto matrizes podem conter várias dimensões.
+Um vetor é declarado da seguinte forma em C
+Um vetor é uma sequência de variáveis de mesmo tipo e referenciadas por um nome único.
+Os elementos do vetor ocupam posições contíguas de memória; Os vetores têm tamanho predefinido e fixo;
+Matriz (array multi-dimensional) é um vetor de vetores. 
+
+Arrays:
+Um array é uma coleção de um ou mais objetos, do mesmo tipo, armazenados em endereços adjacentes de memória. 
+Cada objeto é chamado de elemento do array. Da mesma forma que para variáveis simples, damos um nome ao array. 
+O tamanho do array é o seu número de elementos
+A principal finalidade é guardar informações de modo ORDENADO, ou seja, para cada linha, uma informação. 
+
+O que são registros:
+Um Registro é uma estrutura que fornece um formato especializado para armazenar informações em memória.
+Um registro é dividido em unidades de dados chamadas de Campos. 
+Cada campo é utilizado para armazenar um dado específico, de um tipo determinado.
+
+
+Listas, nó,  pilhas, filas:
+Filas são estruturas de dados do tipo FIFO (first-in first-out), onde o primeiro elemento a ser inserido, 
+será o primeiro a ser retirado, ou seja, adiciona-se itens no fim e remove-se do início.
+
+Uma pilha permite acesso a apenas um item de dados - o último inserido. Para processar o penúltimo item inserido, deve-se remover o último.
+
+Filas e pilhas são estruturas usualmente implementadas através de listas, retringindo a política de manipulação dos elementos da lista. 
+As listas são estruturas de dados muito utilizadas. Elas armazenam os dados em um formato de lista.
+Basicamente, uma lista é, na verdade, um conjunto de estruturas chamadas “nós”. 
+Um nó é uma estrutura que armazena a informação a ser gerenciada por uma lista.
+**COMPLEXO - ESTUDAR**
+
+Arvores:
+É uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, 
+chamado de raiz e existem os elementos subordinados a ele, que são chamados de nós filhos. 
+Cada nós filho pode conter zero, um ou mais de um nós filhos.
+
+Tabela Hash:
+é uma estrutura de dados especial, que associa chaves de pesquisa a valores. 
+Seu objetivo é, a partir de uma chave simples, fazer uma busca rápida e obter o valor desejado.
+
+Grafos:
+Grafos são estruturas de dados formadas por um conjunto de vértices e um conjunto de arestas. 
+***ESTUDAAAAAAR***
